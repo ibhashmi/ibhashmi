@@ -1,9 +1,11 @@
-### Hi there 👋
+<p align="center"><img src="https://tenor.com/view/star-wars-hello-there-hello-obi-wan-kenobi-gif-13903117.gif" width="80%" height="80%" /></p>
 
-<p align="center"><iframe src="https://giphy.com/embed/Nx0rz3jtxtEre" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
+                                                           👋 Hello World!
 
+
+<!--
 Here are some ideas to get you started:
-<!-- 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
