@@ -1,14 +1,19 @@
-<!-- <p align="right"><img src="https://ihttps://imgur.com/a/9IYdFjb.gif" width="80%" height="80%" /></p> -->
+<h2 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=50&duration=3000&color=2FC800FF&width=700&height=70&lines=Hi!+I'm+Ibrahim+Hashmi+%3A\))](https://git.io/typing-svg)
+  
+ </h2> 
+ 
+
+ 
+<img align="right" src="https://user-images.githubusercontent.com/43527512/167666629-f651bad3-7e6f-491d-85d7-5cc469b08043.gif" width="40%" height="80%" />
 
 
 
-                                                           👋 Hello World!
+                                               
+I'm a student developer 💻 with a passion for AI and Machine Learning 🤖
 
-I'm Ibrahim Hashmi, a student developer 💻 with a passion for AI and Machine Learning 🤖
 
-Some of the technologies and tools I'm familiar with:
-
-<img src=" "https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa.gif" width="80%" height="80%" />
 
 <!--
 Here are some ideas to get you started:
@@ -21,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
+
