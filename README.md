@@ -1,7 +1,14 @@
-<p align="center"><img src="https://tenor.com/view/star-wars-hello-there-hello-obi-wan-kenobi-gif-13903117.gif" width="80%" height="80%" /></p>
+<!-- <p align="right"><img src="https://ihttps://imgur.com/a/9IYdFjb.gif" width="80%" height="80%" /></p> -->
+
+
 
                                                            👋 Hello World!
 
+I'm Ibrahim Hashmi, a student developer 💻 with a passion for AI and Machine Learning 🤖
+
+Some of the technologies and tools I'm familiar with:
+
+<img src=" "https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa.gif" width="80%" height="80%" />
 
 <!--
 Here are some ideas to get you started:
