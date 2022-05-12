@@ -17,7 +17,7 @@
 - 🧑‍💼 Low-Code Application Developer in Ontario's <a href="https://www.ontario.ca/page/ministry-government-and-consumer-services">Ministry of Government and Consumer Services (MGCS)</a>
 - 👩‍💻 Working with the <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Power Platform</a> to create prototypes for Ministry clients
 
-
+<h2></h2>
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/languages.svg)
 
