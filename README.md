@@ -48,7 +48,7 @@
   </a>
   
   <a href="https://github.com/ibhashmi/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhashmi&theme=merko"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhashmi&theme=github_dark"/>
   </a>
 </p>   
     
