@@ -38,9 +38,9 @@
 <a href="https://powerapps.microsoft.com/en-ca/" title="Power Apps"><img src="logos/power apps.png" width="55" height="55"/></a>
 
 ## 📱 Socials
-[![GITHUB](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
-[![LINKEDIN](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimh26/)
-[![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
+[![GITHUB](https://img.shields.io/badge/ibhashmi-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
+[![LINKEDIN](https://img.shields.io/badge/Ibrahim%20Hashmi-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimh26/)
+[![GMAIL](https://img.shields.io/badge/ibhashmi@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
 
 <p align="center">
    <a href="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg" title="Ibrahim's GitHub stats">
