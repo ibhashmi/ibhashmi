@@ -18,8 +18,8 @@
 - 👩‍💻 Working with the <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Power Platform</a> to create prototypes for Ministry clients
 
 ## Languages
-
-
+<a href="https://www.python.org/" title="Python"><img src="logos/python.png" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" width="50" height="50"/></a>
 
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/languages.svg)
