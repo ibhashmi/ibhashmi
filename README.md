@@ -36,8 +36,11 @@
 <a href="https://powerautomate.microsoft.com/en-us/" title="Power Automate"><img src="logos/powerautomate.png" width="50" height="50"/></a>
 <a href="https://powerapps.microsoft.com/en-ca/" title="Power Apps"><img src="logos/power apps.png" width="55" height="55"/></a>
 
+## Socials
+![](https://komarev.com/ghpvc/?username=ibhashmi)
+
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/languages.svg)
+<!-- ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/languages.svg) -->
 
 <!--
 ## Connect
