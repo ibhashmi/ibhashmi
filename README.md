@@ -30,6 +30,7 @@
 <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="logos/devops.png" width="65" height="65"/></a>
 <a href="https://www.figma.com/" title="Figma"><img src="logos/figma.png" width="40" height="50"/></a>
 <a href="https://miro.com/" title="Miro"><img src="logos/miro.png" width="50" height="50"/></a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 ## Currently Learning
 <a href="https://appian.com/" title="Appian"><img src="logos/appian.png" width="50" height="50"/></a>
@@ -37,9 +38,27 @@
 <a href="https://powerapps.microsoft.com/en-ca/" title="Power Apps"><img src="logos/power apps.png" width="55" height="55"/></a>
 
 ## Socials
-![](https://komarev.com/ghpvc/?username=ibhashmi)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
+[![LINKEDIN](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimh26/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
 
-![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg)
+<p align="center">
+   <a href="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg" title="Ibrahim's GitHub stats">
+     <img align = "center" src="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg"/>
+  </a>
+  
+  <a href="https://github.com/ibhashmi/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhashmi"/>
+  </a>
+</p>   
+    
+
+ ![Ibrahim's Profile Views](https://komarev.com/ghpvc/?username=ibhashmi&style=for-the-badge&color=brightgreen)
+ 
+ 
+ 
+<!-- ![Ibrahim's GitHub stats](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg) -->
+<!-- [![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibhashmi)](https://github.com/ibhashmi/github-readme-stats) -->
 <!-- ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/languages.svg) -->
 
 <!--
