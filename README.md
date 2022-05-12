@@ -5,7 +5,7 @@
  </h2> 
  
  <h3 align="center">
-  A student developer 💻 with a passion for AI and Machine Learning 🤖
+  A student developer 💻 who loves AI and Machine Learning 🤖
 </h2>
  
  ## 👋 About Me
@@ -17,7 +17,7 @@
 - 🧑‍💼 Low-Code Application Developer in Ontario's <a href="https://www.ontario.ca/page/ministry-government-and-consumer-services">Ministry of Government and Consumer Services (MGCS)</a>
 - 👩‍💻 Working with the <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Power Platform</a> to create prototypes for Ministry clients
 
-## Languages and Tools
+## ⚒️ Languages and Tools
 <a href="https://www.python.org/" title="Python"><img src="logos/python.png" width="50" height="50"/></a>
 <a href="https://www.java.com/en/" title="Java"><img src="logos/java.png" width="50" height="50"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="logos/csharp.png" width="50" height="50"/></a>
@@ -32,12 +32,12 @@
 <a href="https://miro.com/" title="Miro"><img src="logos/miro.png" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
-## Currently Learning
+## 📝 Currently Learning
 <a href="https://appian.com/" title="Appian"><img src="logos/appian.png" width="50" height="50"/></a>
 <a href="https://powerautomate.microsoft.com/en-us/" title="Power Automate"><img src="logos/powerautomate.png" width="50" height="50"/></a>
 <a href="https://powerapps.microsoft.com/en-ca/" title="Power Apps"><img src="logos/power apps.png" width="55" height="55"/></a>
 
-## Socials
+## 📱 Socials
 [![GITHUB](https://img.shields.io/badge/GITHUB-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimh26/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
