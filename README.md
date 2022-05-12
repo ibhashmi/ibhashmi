@@ -19,7 +19,20 @@
 
 ## Languages
 <a href="https://www.python.org/" title="Python"><img src="logos/python.png" width="50" height="50"/></a>
+<a href="https://www.java.com/en/" title="Java"><img src="logos/java.png" width="50" height="50"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="c#"><img src="logos/C#.png" width="50" height="50"/></a>
+<a href="https://html.com/" title="HTML"><img src="logos/html.png" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="logos/css.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="logos/sql.png" width="50" height="50"/></a>
+<a href="https://git-scm.com/" title="Git"><img src="logos/git.png" width="50" height="50"/></a>
+<a href="https://powerautomate.microsoft.com/en-us/" title="Power Automate"><img src="logos/powerautomate.png" width="50" height="50"/></a>
+<a href="https://powerapps.microsoft.com/en-ca/" title="Power Apps"><img src="logos/power-apps.png" width="50" height="50"/></a>
+<a href="https://unity.com/" title="Unity"><img src="logos/unity.png" width="50" height="50"/></a>
+<a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="logos/devops.png" width="50" height="50"/></a>
+<a href="https://www.figma.com/" title="Figma"><img src="logos/figma.png" width="50" height="50"/></a>
+<a href="https://miro.com/" title="Miro"><img src="logos/miro.png" width="50" height="50"/></a>
+
 
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/languages.svg)
