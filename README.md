@@ -13,9 +13,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/43527512/167666629-f651bad3-7e6f-491d-85d7-5cc469b08043.gif" width="40%" height="300%" />
 
 
-- 👨‍🎓 Computer Science Co-op student at Brock University
-- 🧑‍💼 Low-Code Application Developer in Ontario's <a href="https://www.ontario.ca/page/ministry-government-and-consumer-services">Ministry of Government and Consumer Services (MGCS)</a>
-- 👩‍💻 Working with the <a href="https://powerplatform.microsoft.com/en-ca/">Microsoft Power Platform</a> to create prototypes for Ministry clients
+- 👨‍🎓 Fourth Year Computer Science Co-op student at Brock University
+- 🧑‍💼 Low-Code Application Developer in Ontario's <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a> (April 2022 - September 2022)
+- 🧑‍💼Junior Technical Analyst, and then UX Designer in the Ontario <a href="https://www.ontario.ca/page/ministry-transportation">Ministry of Transportation (MTO)</a> (April 2021 - December 2021)
+- 📚 Warhammer 40K enthusiast. The Emperor Protects
+
 
 ## ⚒️ Languages and Tools
 <a href="https://www.python.org/" title="Python"><img src="logos/python.png" width="50" height="50"/></a>
@@ -32,10 +34,6 @@
 <a href="https://miro.com/" title="Miro"><img src="logos/miro.png" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
-## 📝 Currently Learning
-<a href="https://appian.com/" title="Appian"><img src="logos/appian.png" width="50" height="50"/></a>
-<a href="https://powerautomate.microsoft.com/en-us/" title="Power Automate"><img src="logos/powerautomate.png" width="50" height="50"/></a>
-<a href="https://powerapps.microsoft.com/en-ca/" title="Power Apps"><img src="logos/power apps.png" width="55" height="55"/></a>
 
 ## 📱 Socials
 [![GITHUB](https://img.shields.io/badge/ibhashmi-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
