@@ -41,9 +41,10 @@
 [![GMAIL](https://img.shields.io/badge/ibhashmi@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
 
 <p align="center">
+  <!--
    <a href="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg" title="Ibrahim's GitHub stats">
      <img align = "center" src="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg"/>
-  </a>
+  </a>-->
   
   <a href="https://github.com/ibhashmi/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibhashmi&theme=github_dark"/>
