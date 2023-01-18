@@ -46,9 +46,7 @@
      <img align = "center" src="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg"/>
   </a>-->
   
-  <a href="https://github.com/ibhashmi/github-readme-stats">
-    <img align="center" src="https://githubstats.alecames.com/api/top-langs/?username=ibhashmi&theme=github_dark"/>
-  </a>
+  
 </p>   
 
  ![Ibrahim's Profile Views](https://komarev.com/ghpvc/?username=ibhashmi&style=for-the-badge&color=brightgreen)
