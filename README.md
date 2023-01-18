@@ -26,14 +26,21 @@
 <a href="https://html.com/" title="HTML"><img src="logos/html.png" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="logos/css.png" width="40" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="logos/javascript.png" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="logos/sql.png" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL" title="SQL" target="_blank"><img src="https://img.icons8.com/external-dygo-kerismaker/48/null/external-SQL-networking-dygo-kerismaker.png" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio" title="Android Studio" target="_blank"><img src="https://img.icons8.com/fluency/48/null/android-studio--v3.png" width="50" height="50"/></a>
 <a href="https://git-scm.com/" title="Git"><img src="logos/git.png" width="50" height="50"/></a>
 <a href="https://unity.com/" title="Unity"><img src="logos/unity.png" width="50" height="50"/></a>
 <a href="https://azure.microsoft.com/en-us/services/devops/" title="Azure DevOps"><img src="logos/devops.png" width="65" height="65"/></a>
 <a href="https://www.figma.com/" title="Figma"><img src="logos/figma.png" width="40" height="50"/></a>
 <a href="https://miro.com/" title="Miro"><img src="logos/miro.png" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-
+<a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://img.icons8.com/color/48/null/bootstrap.png" width="50" height="50"/></a>
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" title=".NET" target="_blank"><img src="https://img.icons8.com/color/48/null/net-framework.png" width="50" height="50"/></a>
+<a href="https://www.atlassian.com/software/jira" title="Jira" target="_blank"><img src="https://img.icons8.com/color/48/null/jira.png" width="50" height="50"/></a>
+<a href="https://www.latex-project.org/" title="LaTeX" target="_blank"><img src="https://img.icons8.com/color/48/null/latex.png" width="50" height="50"/></a>
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio--v1.png" width="50" height="50"/></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" width="50" height="50"/></a>
+<a href="https://www.jetbrains.com/idea/" title="IntelliJ" target="_blank"><img src="https://img.icons8.com/color/48/null/intellij-idea.png" width="50" height="50"/></a>
 
 ## 📱 Socials
 [![GITHUB](https://img.shields.io/badge/ibhashmi-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
