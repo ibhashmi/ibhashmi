@@ -45,7 +45,7 @@
 ## 📱 Socials
 [![GITHUB](https://img.shields.io/badge/ibhashmi-%23181717.svg?&style=for-the-badge&logo=GITHUB&logoColor=white)](https://github.com/ibhashmi)
 [![LINKEDIN](https://img.shields.io/badge/Ibrahim%20Hashmi-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimh26/)
-[![GMAIL](https://img.shields.io/badge/ibhashmi@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
+[![GMAIL](https://img.shields.io/badge/ibhashmi1999@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
 
 <p align="center">
   <!--
