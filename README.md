@@ -13,9 +13,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/43527512/167666629-f651bad3-7e6f-491d-85d7-5cc469b08043.gif" width="40%" height="300%" />
 
 
-- 👨‍🎓 Fourth Year Computer Science Co-op student at Brock University
-- 🧑‍💼 Low-Code Application Developer in Ontario's <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a> (April 2022 - September 2022)
-- 🧑‍💼Junior Technical Analyst, and then UX Designer in the Ontario <a href="https://www.ontario.ca/page/ministry-transportation">Ministry of Transportation (MTO)</a> (April 2021 - December 2021)
+- 👨‍🎓 Computer Science Graduate from Brock University
+- 🧑‍💼 Software Developer in Ontario's <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a> (April 2022 - September 2022)
+- 🧑‍💼Junior Technical Analyst, and then UX Designer in Ontario's <a href="https://www.ontario.ca/page/ministry-transportation">Ministry of Transportation (MTO)</a> (April 2021 - December 2021)
 - 📚 Warhammer 40K enthusiast. The Emperor Protects
 
 
