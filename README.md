@@ -47,16 +47,6 @@
 [![LINKEDIN](https://img.shields.io/badge/Ibrahim%20Hashmi-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimh26/)
 [![GMAIL](https://img.shields.io/badge/ibhashmi1999@gmail.com-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:ibhashmi@gmail.com)
 
-<p align="center">
-  <!--
-   <a href="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg" title="Ibrahim's GitHub stats">
-     <img align = "center" src="https://raw.githubusercontent.com/ibhashmi/github-stats-transparent/output/generated/overview.svg"/>
-  </a>-->
-  
-  <a href="https://github.com/ibhashmi/github-readme-stats">
-    <img align="center" src="https://githubstats.alecames.com/api/top-langs/?username=ibhashmi&theme=github_dark"/>
-  </a>
-</p>   
 
  ![Ibrahim's Profile Views](https://komarev.com/ghpvc/?username=ibhashmi&style=for-the-badge&color=brightgreen)
  
