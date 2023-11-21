@@ -5,7 +5,7 @@
  </h2> 
  
  <h3 align="center">
-  A student developer 💻 who loves AI and Machine Learning 🤖
+  Software developer 💻 who loves AI and Machine Learning 🤖
 </h2>
  
  ## 👋 About Me
